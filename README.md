@@ -3,7 +3,7 @@
 > ### 황산하(sanha),26
 - 전북대 경제/통계(Jeonbuk UNI. Economics & Statistics)
 - DataScience & AI 를 위해 공부 및 기록
-- `To Be AI Engineer`
+- `To Be AI Engineer, and CEO`
 
 > ### Interest
 - BigData
@@ -13,5 +13,8 @@
 - Stock
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R Program-178DC3?style=flat-square&logo=R&logoColor=white"/>
+
+> ### History
+- 공공빅데이터 청년인턴 (~ing)
 
 [BIO](https://linktr.ee/hsh6449) 
