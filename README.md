@@ -7,8 +7,7 @@
 
 > ### Interest
 - BigData
-- MachineLearning
-- DeepLearning
+- MachineLearning,DeepLearning; AI
 - MUSIC
 - STARTUP
 - Stock
