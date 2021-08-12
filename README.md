@@ -12,9 +12,9 @@
 - STARTUP
 - Stock
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R Program-178DC3?style=flat-square&logo=R&logoColor=white"/>
-
 > ### History
 - 공공빅데이터 청년인턴 (~ing)
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R Program-178DC3?style=flat-square&logo=R&logoColor=white"/>
 
 [BIO](https://linktr.ee/hsh6449) 
