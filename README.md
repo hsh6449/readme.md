@@ -13,6 +13,8 @@
 - Stock
 
 > ### History
+- 2019 데이터크리에이터 캠프 전북대 예선 (NIA)
+- Dacon 식수예측 경진대회 (51/480)
 - 공공빅데이터 청년인턴 (~ing)
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R Program-178DC3?style=flat-square&logo=R&logoColor=white"/>
