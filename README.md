@@ -4,6 +4,7 @@
 - 전북대 경제/통계(Jeonbuk UNI. Economics & Statistics)
 - DataScience & AI 를 위해 공부 및 기록
 - `To Be AI Engineer, and CEO`
+- "어제보다만 나아지는 모습을 추구합니다 인생에도 복리의 법칙이 존재하거든요."
 
 > ### Interest
 - BigData
