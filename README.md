@@ -15,8 +15,8 @@
 > ### History
 - 2019 데이터크리에이터 캠프 전북대 예선 (NIA)
 - 2021 전북대 빅데이터 학회 JBIG 운영하려고 노력중..
-- Dacon 식수예측 경진대회 (51/480)
-- 공공빅데이터 청년인턴 (~ing)
+- 2021 Dacon 식수예측 경진대회 (51/480)
+- 2021 공공빅데이터 청년인턴 `프로젝트 대상`, `국민연금공단`
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R Program-178DC3?style=flat-square&logo=R&logoColor=white"/>
 
