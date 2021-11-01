@@ -18,6 +18,7 @@
 - 2021 전북대 빅데이터 학회 JBIG 운영하려고 노력중..
 - 2021 Dacon 식수예측 경진대회 (51/480)
 - 2021 공공빅데이터 청년인턴 `프로젝트 대상`, `국민연금공단`
+- 2021 데이터크레에이터캠프 본선진출 (ing)
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R Program-178DC3?style=flat-square&logo=R&logoColor=white"/>
 
