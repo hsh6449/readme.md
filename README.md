@@ -9,9 +9,8 @@
 > ### Interest
 - BigData, Data Science
 - AI(MachineLearning,DeepLearning) 
-- MUSIC
 - STARTUP
-- Stock
+- Stock, Music
 
 > ### Activity
 - 2019 데이터크리에이터 캠프 전북대 예선 (NIA)
@@ -25,9 +24,9 @@
 
 
 > ### Education
-1. 경제
-2. 통계
-3. 수학
+1. 경제 : 미시경제학, 거시경제학, 투자론, 국제경제학, 계량경제학, 환경경제학 등
+2. 통계 : 수리통계학, 통계전산, 통계데이터베이스, 텍스트마이닝, 확률과 추론, 회귀분석
+3. 수학 : 선형대수(공부중)
 4. 컴퓨터 공학
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R Program-178DC3?style=flat-square&logo=R&logoColor=white"/>
