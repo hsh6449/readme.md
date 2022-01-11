@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=8C&height=200&section=header&text=Sanha%20&fontSize=50&animation=twinkling&fontcolor=8B4513&descSize=100)
 
 > ### 황산하(sanha)
-- 전북대 경제/통계(Jeonbuk UNI. Economics & Statistics)
+- 전북대 경제/통계(Jeonbuk National UNI. Economics & Statistics)
 - DataScience & AI 를 위해 공부 및 기록
 - `To Be AI Engineer, Data Scientist and CEO`
 - "어제보다만 나아지는 모습을 추구합니다 인생에도 복리의 법칙이 존재하거든요."
