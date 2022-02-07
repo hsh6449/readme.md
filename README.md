@@ -20,7 +20,9 @@
 - 2021 빅콘테스트 홍수 유입량 예측 경진대회 참가
 - 2021 공공빅데이터 청년인턴 `프로젝트 대상`, `국민연금공단` 빅데이터부 인턴('21.09~'22.02) 
 - 2021 데이터크레에이터캠프 본선 제 6회 최우수상
-- 2022 데이콘 KNOW 일자리 추천 알고리즘 경진대회(~ing)
+- 2022 데이콘 KNOW 일자리 추천 알고리즘 경진대회(38/360)
+
+
 
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R Program-178DC3?style=flat-square&logo=R&logoColor=white"/>
