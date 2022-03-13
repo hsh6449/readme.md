@@ -8,7 +8,7 @@
 
 > ### Interest
 - BigData, Data Science
-- AI(MachineLearning,DeepLearning) 
+- AI(ML, DL, RL) 
 - STARTUP
 - Stock, Music
 
