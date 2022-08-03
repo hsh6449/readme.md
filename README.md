@@ -12,7 +12,7 @@
 - Stock, Music
 
 > ### Activity
-- 2022 고려대학교 수학과 AIML 인턴
+- 2022 고려대학교 수학과 AIML() 인턴
 - 2022 데이콘 Krx 금융 빅데이터 창업경진대회
 - 2022 데이콘 KNOW 일자리 추천 알고리즘 경진대회(38/360)
 - 2021 전북대 빅데이터 학회 [JBIG](https://generated-element-754.notion.site/JBIG-JBNU-Bigdata-AI-Group-ec3541c0f66447fc8d108c13a652df80) 창설 & 운영
