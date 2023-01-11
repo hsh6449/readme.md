@@ -11,6 +11,7 @@
 - Data Science, AI(ML, DL, RL) 
 - STARTUP
 - Stock, Music
+- Liverpool FC
 
 > ### Activity
 - 2022 고려대학교 수학과 AIML(AI + MATH LAB) 인턴
