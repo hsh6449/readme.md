@@ -31,4 +31,4 @@
 [BIO](https://linktr.ee/hsh6449)
 [Notion](https://www.notion.so/Hwang-Sanha-e4cb0bf6c12145a2921efae527cd5afd)
 
-:+1: I'm Currently Learning `Linear Algebra`, `Image Segmentation(CV)`, `Reinforcement Learning` and `Set Theory`
+:+1: I'm Currently Learning `Linear Algebra`, `Real Analysis`, `Reinforcement Learning` and `Graph Theory`
