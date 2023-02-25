@@ -8,7 +8,8 @@
 - "어제보다만 나아지는 모습을 추구합니다 인생에도 복리의 법칙이 존재하거든요."
 
 > ### Interest
-- Data Science, AI(ML, DL, RL) 
+- Data Science, AI(ML, DL, RL)
+- ARC([Abstract and Reasoning Challenge](https://www.kaggle.com/c/abstraction-and-reasoning-challenge)) 
 - STARTUP
 - Stock, Music
 - Liverpool FC
