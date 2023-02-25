@@ -2,7 +2,7 @@
 
 > ### 황산하(Sanha Hwang)
 - JBNU BA Economics & BS Statistics(Double major)
-- GIST AI MS in [Data Science Lab]()
+- GIST AI MS in [Data Science Lab](https://sundong.kim/)
 - DataScience & AI 를 위해 공부 및 기록
 - `To Be AI Researcher, Data Scientist and CEO`
 - "어제보다만 나아지는 모습을 추구합니다 인생에도 복리의 법칙이 존재하거든요."
