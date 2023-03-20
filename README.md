@@ -37,7 +37,7 @@
 - 2019 데이터크리에이터 캠프 전북대 예선 (NIA)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=)]()
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/hsh6449)](https://www.youtube.com/c/hsh6449)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@hsh6449able/)](https://www.youtube.com/@hsh6449able/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanha/)](https://www.linkedin.com/in/sanha/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsh6449@gmail.com)](mailto:hsh6449@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sanha.hwang)](https://www.facebook.com/sanha.hwang)
