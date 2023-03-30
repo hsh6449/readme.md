@@ -41,7 +41,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanha/)](https://www.linkedin.com/in/sanha/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hsh6449@gmail.com)](mailto:hsh6449@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/sanha.hwang)](https://www.facebook.com/sanha.hwang)
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&title_bg=%235C5F64&logo=Notion&logo_color=%23F0F4F0&link=https://www.notion.so/Hwang-Sanha-e4cb0bf6c12145a2921efae527cd5afd)](https://www.notion.so/Hwang-Sanha-e4cb0bf6c12145a2921efae527cd5afd)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&title_bg=%235C5F64&logo=Notion&logo_color=%23F0F4F0&link=https://https://sanhahwang.notion.site)](https://sanhahwang.notion.site)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-grey?style=flat-square&title_bg=%235C5F64&logo=Instagram&logo_color=%E4405F&link=https://https://www.instagram.com/sanaakkhj/)](https://www.instagram.com/sanaakkhj/)
 
 :+1: I'm Currently Learning `Linear Algebra`, `Real Analysis`, `Reinforcement Learning` and `Graph Theory`
