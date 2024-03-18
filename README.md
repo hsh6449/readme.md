@@ -1,4 +1,4 @@
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq<div align=center>
+<div align=center>
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=8C&height=200&section=header&text=Sanha%20&fontSize=50&animation=twinkling&fontcolor=8B4513&descSize=100)
   
