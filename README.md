@@ -45,4 +45,4 @@
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&title_bg=%235C5F64&logo=Notion&logo_color=%23F0F4F0&link=https://https://sanhahwang.notion.site)](https://sanhahwang.notion.site)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-grey?style=flat-square&title_bg=%235C5F64&logo=Instagram&logo_color=%E4405F&link=https://https://www.instagram.com/sanaakkhj/)](https://www.instagram.com/sanaakkhj/)
 
-:+1: I'm Currently Learning `Linear Algebra`, `Real Analysis`, `Reinforcement Learning` and `Graph Theory`
+:+1: I'm Currently Learning `Casual Inference`, `Real Analysis`, `Reinforcement Learning` and `GFlowNet`
