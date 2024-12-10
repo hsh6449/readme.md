@@ -7,6 +7,14 @@
   
 [![Sanha's github stats](https://github-readme-stats.vercel.app/api?username=hsh6449)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/hsh6449?pet-id=654211319659618951"
+    width="600"
+    height="120"
+  />
+</a>
+  
 </div>
   
 > ### 황산하(Sanha Hwang)
